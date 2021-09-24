@@ -2,7 +2,6 @@ import React from "react";
 import Button from "react-bootstrap/esm/Button";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import Image from "react-bootstrap/Image";
 
 const About = () => {
   return (

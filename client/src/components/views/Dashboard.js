@@ -11,8 +11,6 @@ import Row from "react-bootstrap/esm/Row";
 import Toast from "react-bootstrap/Toast";
 import Button from "react-bootstrap/esm/Button";
 import Spinner from "react-bootstrap/esm/Spinner";
-import OverlayTrigger from "react-bootstrap/OverlayTrigger";
-import Tooltip from "react-bootstrap/Tooltip";
 
 const Dashboard = () => {
   // Contexts
