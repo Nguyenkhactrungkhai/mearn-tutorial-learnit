@@ -12,6 +12,7 @@ import Toast from "react-bootstrap/Toast";
 import OverlayTrigger from "react-bootstrap/OverlayTrigger";
 import Button from "react-bootstrap/esm/Button";
 import Spinner from "react-bootstrap/esm/Spinner";
+import Tooltip from "react-bootstrap/Tooltip";
 
 const Dashboard = () => {
   // Contexts
